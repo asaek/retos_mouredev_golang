@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	retos.Challenge0()
+	retos.Challenge1("amor", "roma")
 }
